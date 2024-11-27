@@ -1,3 +1,5 @@
+![Counter](https://count.getloli.com/@ItsMySiteBlyat?name=ItsMySiteBlyat&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+
 # Хранилище файлов для приватной организации GitHub
 
 **Назначение:**  
